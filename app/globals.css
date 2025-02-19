@@ -19,3 +19,8 @@ body {
   background: var(--background);
   font-family: Arial, Helvetica, sans-serif;
 }
+/* styles/globals.css */
+:root {
+  --swiper-navigation-color: #aa7656;
+  --swiper-pagination-color: #aa7656;
+}
